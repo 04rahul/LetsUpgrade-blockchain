@@ -1,0 +1,48 @@
+Q1)what is your understandong of blockchain?
+
+A)The concept of blockchain is the combination of distributed database and crptography.In blockchain, copies of existing records in different places is done.
+ This technology aims to avoid the hacks and avoids to loose the data.
+Blockchain main advantages are huge security,verifiable,data transparency and decentralised.
+
+ 
+
+Q2)what is the core problem blockchain trying to solve?
+
+A) The three main things are 1)verifiabilty
+
+2)security
+
+3)authenticity
+
+ 
+
+Q3) What are the few features that blockchain will give you ?
+
+A)
+
+1)verifiable
+
+2)unchangeable
+
+3)immutable
+
+4)tamper_proof
+
+ 
+
+Q4)What all things does blockchain contains ?
+
+A)1)block number
+
+2)transaction records
+
+3)previous block signature
+
+4)mining key
+
+ 
+Q5)How is verifiability of blockchain is been attained ?
+
+a)This is main advantage of blockchain in terms of verfiability.
+
+The hash key(fingureprint) of the transaction records(data) will automatically gets changed when the transaction record(data) gets changed.Thus,this way we can checkthe verifiability
